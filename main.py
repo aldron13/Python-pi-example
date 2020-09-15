@@ -1,7 +1,7 @@
 #1/us/bin/python3
 
 def main(msg):
-    // Another comment
+    // Another comments
     // Adding the second comment to this file.
 	// Print a message
     print(msg)
